@@ -1,50 +1,42 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "blog",
+    "url": "https://blog.tmint.dev",
+    "slug": "blog",
     "status": "up",
     "uptime": "100.00",
-    "time": 85
+    "time": 1020
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "d'oh!",
+    "url": "https://doh.kr",
+    "slug": "d-oh",
     "status": "up",
     "uptime": "100.00",
-    "time": 169
+    "time": 436
   },
   {
-    "name": "Internet Archive",
-    "url": "https://archive.org",
-    "slug": "internet-archive",
+    "name": "guu.moe",
+    "url": "https://guu.moe",
+    "slug": "guu-moe",
     "status": "up",
     "uptime": "100.00",
-    "time": 547
+    "time": 515
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "tmint.dev",
+    "url": "https://tmint.dev",
+    "slug": "tmint-dev",
     "status": "up",
     "uptime": "100.00",
-    "time": 323
+    "time": 168
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "teslam.in",
+    "url": "https://teslam.in",
+    "slug": "teslam-in",
     "status": "up",
     "uptime": "100.00",
-    "time": 53
+    "time": 729
   }
 ]
