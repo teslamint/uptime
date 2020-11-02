@@ -10,6 +10,10 @@ sites:
     url: https://doh.kr
   - name: guu.moe
     url: https://guu.moe
+  - name: tmint.dev
+    url: https://tmint.dev
+  - name: teslam.in
+    url: https://teslam.in
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
