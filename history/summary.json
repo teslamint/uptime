@@ -5,7 +5,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00",
-    "time": 1020
+    "time": 616
   },
   {
     "name": "d'oh!",
@@ -13,7 +13,7 @@
     "slug": "d-oh",
     "status": "up",
     "uptime": "100.00",
-    "time": 436
+    "time": 403
   },
   {
     "name": "guu.moe",
@@ -21,7 +21,7 @@
     "slug": "guu-moe",
     "status": "up",
     "uptime": "100.00",
-    "time": 515
+    "time": 401
   },
   {
     "name": "tmint.dev",
@@ -29,7 +29,7 @@
     "slug": "tmint-dev",
     "status": "up",
     "uptime": "100.00",
-    "time": 168
+    "time": 167
   },
   {
     "name": "teslam.in",
@@ -37,6 +37,14 @@
     "slug": "teslam-in",
     "status": "up",
     "uptime": "100.00",
-    "time": 492
+    "time": 421
+  },
+  {
+    "name": "racl.kr",
+    "url": "https://racl.kr",
+    "slug": "racl-kr",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 519
   }
 ]
