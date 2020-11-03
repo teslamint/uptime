@@ -3,48 +3,48 @@
     "name": "blog",
     "url": "https://blog.tmint.dev",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 616
+    "time": 410
   },
   {
     "name": "d'oh!",
     "url": "https://doh.kr",
     "slug": "d-oh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 403
+    "time": 268
   },
   {
     "name": "guu.moe",
     "url": "https://guu.moe",
     "slug": "guu-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 401
+    "time": 300
   },
   {
     "name": "tmint.dev",
     "url": "https://tmint.dev",
     "slug": "tmint-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 167
+    "time": 111
   },
   {
     "name": "teslam.in",
     "url": "https://teslam.in",
     "slug": "teslam-in",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 421
+    "time": 315
   },
   {
     "name": "racl.kr",
     "url": "https://racl.kr",
     "slug": "racl-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 519
+    "time": 259
   }
 ]
