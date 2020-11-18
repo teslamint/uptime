@@ -16,6 +16,10 @@ sites:
     url: https://teslam.in
   - name: racl.kr
     url: https://racl.kr
+  - name: tguum.kr
+    url: https://tguum.kr
+  - name: egloos
+    url: https://ice.tguum.kr
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
