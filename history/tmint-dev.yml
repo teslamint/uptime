@@ -1,7 +1,7 @@
 - url: https://tmint.dev
-- status: up
+- status: down
 - code: 200
-- responseTime: 66
-- lastUpdated: 2020-11-18T23:05:28.498Z
+- responseTime: 244
+- lastUpdated: 2020-11-19T06:50:30.823Z
 - startTime: 2020-11-02T01:46:11.029Z
 - generator: Upptime <https://github.com/upptime/upptime>
