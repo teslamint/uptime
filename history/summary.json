@@ -3,64 +3,64 @@
     "name": "blog",
     "url": "https://blog.tmint.dev",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 840
+    "time": 814
   },
   {
     "name": "d'oh!",
     "url": "https://doh.kr",
     "slug": "d-oh",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 326
+    "time": 325
   },
   {
     "name": "guu.moe",
     "url": "https://guu.moe",
     "slug": "guu-moe",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 356
+    "status": "up",
+    "uptime": "99.96",
+    "time": 350
   },
   {
     "name": "tmint.dev",
     "url": "https://tmint.dev",
     "slug": "tmint-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 144
+    "time": 146
   },
   {
     "name": "teslam.in",
     "url": "https://teslam.in",
     "slug": "teslam-in",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 339
+    "time": 336
   },
   {
     "name": "racl.kr",
     "url": "https://racl.kr",
     "slug": "racl-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 296
+    "time": 288
   },
   {
     "name": "tguum.kr",
     "url": "https://tguum.kr",
     "slug": "tguum-kr",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 280
+    "status": "up",
+    "uptime": "100.00",
+    "time": 286
   },
   {
     "name": "egloos",
     "url": "https://ice.tguum.kr",
     "slug": "egloos",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 1219
+    "status": "up",
+    "uptime": "99.53",
+    "time": 1315
   }
 ]
