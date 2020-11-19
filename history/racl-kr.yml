@@ -1,7 +1,7 @@
 - url: https://racl.kr
-- status: up
+- status: down
 - code: 200
-- responseTime: 255
-- lastUpdated: 2020-11-18T23:05:29.617Z
+- responseTime: 326
+- lastUpdated: 2020-11-19T06:50:37.835Z
 - startTime: 2020-11-02T01:53:39.527Z
 - generator: Upptime <https://github.com/upptime/upptime>
