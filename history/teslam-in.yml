@@ -1,7 +1,7 @@
 - url: https://teslam.in
-- status: up
+- status: down
 - code: 200
-- responseTime: 249
-- lastUpdated: 2020-11-18T23:05:29.048Z
+- responseTime: 307
+- lastUpdated: 2020-11-19T06:50:34.522Z
 - startTime: 2020-11-02T01:46:22.164Z
 - generator: Upptime <https://github.com/upptime/upptime>
