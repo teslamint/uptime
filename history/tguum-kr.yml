@@ -1,7 +1,7 @@
 - url: https://tguum.kr
-- status: up
+- status: down
 - code: 200
-- responseTime: 236
-- lastUpdated: 2020-11-18T23:05:30.151Z
+- responseTime: 342
+- lastUpdated: 2020-11-19T06:50:49.252Z
 - startTime: 2020-11-18T01:35:29.713Z
 - generator: Upptime <https://github.com/upptime/upptime>
