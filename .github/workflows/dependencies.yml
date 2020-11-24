@@ -5,30 +5,25 @@
 # Instead, change your .upptimerc.yml configuration: https://upptime.js.org/docs
 # Or propose changes to this template: https://github.com/upptime/upptime
 
-name: Static Site CI
+name: Dependencies CI
 on:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
 jobs:
   release:
     name: Build and deploy site
     runs-on: ubuntu-18.04
-    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    if: "github.repository_owner == 'upptime' && github.event.repository.name == 'upptime'"
     steps:
       - name: Checkout
         uses: actions/checkout@v2.3.3
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT }}
-      - name: Generate site
+      - name: Update dependencies
         uses: upptime/uptime-monitor@v1.17.1
         with:
-          command: "site"
+          command: "update-dependencies"
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-      - uses: maxheld83/ghpages@v0.3.0
-        name: GitHub Pages Deploy
-        env:
-          BUILD_DIR: "site/status-page/__sapper__/export/"
           GH_PAT: ${{ secrets.GH_PAT }}
