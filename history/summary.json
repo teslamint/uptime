@@ -5,7 +5,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 658
+    "time": 643
   },
   {
     "name": "d'oh!",
@@ -20,8 +20,8 @@
     "url": "https://guu.moe",
     "slug": "guu-moe",
     "status": "up",
-    "uptime": "61.61%",
-    "time": 344
+    "uptime": "59.48%",
+    "time": 340
   },
   {
     "name": "tmint.dev",
@@ -45,7 +45,7 @@
     "slug": "racl-kr",
     "status": "up",
     "uptime": "100.00%",
-    "time": 543
+    "time": 535
   },
   {
     "name": "tguum.kr",
@@ -53,14 +53,14 @@
     "slug": "tguum-kr",
     "status": "up",
     "uptime": "100.00%",
-    "time": 289
+    "time": 288
   },
   {
     "name": "egloos",
     "url": "https://ice.tguum.kr",
     "slug": "egloos",
     "status": "up",
-    "uptime": "10.21%",
-    "time": 1521
+    "uptime": "9.42%",
+    "time": 1530
   }
 ]
