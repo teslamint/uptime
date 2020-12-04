@@ -5,7 +5,15 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 624
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 632,
+    "timeDay": 309,
+    "timeWeek": 373,
+    "timeMonth": 682,
+    "timeYear": 632
   },
   {
     "name": "d'oh!",
@@ -13,15 +21,31 @@
     "slug": "d-oh",
     "status": "up",
     "uptime": "100.00%",
-    "time": 333
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 343,
+    "timeDay": 373,
+    "timeWeek": 381,
+    "timeMonth": 342,
+    "timeYear": 343
   },
   {
     "name": "guu.moe",
     "url": "https://guu.moe",
     "slug": "guu-moe",
     "status": "up",
-    "uptime": "55.63%",
-    "time": 362
+    "uptime": "53.89%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "51.59%",
+    "uptimeYear": "53.89%",
+    "time": 370,
+    "timeDay": 349,
+    "timeWeek": 405,
+    "timeMonth": 316,
+    "timeYear": 370
   },
   {
     "name": "tmint.dev",
@@ -29,7 +53,15 @@
     "slug": "tmint-dev",
     "status": "up",
     "uptime": "100.00%",
-    "time": 168
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 179,
+    "timeDay": 422,
+    "timeWeek": 200,
+    "timeMonth": 183,
+    "timeYear": 179
   },
   {
     "name": "teslam.in",
@@ -37,7 +69,15 @@
     "slug": "teslam-in",
     "status": "up",
     "uptime": "100.00%",
-    "time": 340
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 348,
+    "timeDay": 311,
+    "timeWeek": 307,
+    "timeMonth": 340,
+    "timeYear": 348
   },
   {
     "name": "racl.kr",
@@ -45,7 +85,15 @@
     "slug": "racl-kr",
     "status": "up",
     "uptime": "100.00%",
-    "time": 522
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 531,
+    "timeDay": 330,
+    "timeWeek": 296,
+    "timeMonth": 560,
+    "timeYear": 531
   },
   {
     "name": "tguum.kr",
@@ -53,14 +101,30 @@
     "slug": "tguum-kr",
     "status": "up",
     "uptime": "100.00%",
-    "time": 287
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 289,
+    "timeDay": 310,
+    "timeWeek": 278,
+    "timeMonth": 289,
+    "timeYear": 289
   },
   {
     "name": "egloos",
     "url": "https://ice.tguum.kr",
     "slug": "egloos",
     "status": "up",
-    "uptime": "8.16%",
-    "time": 1540
+    "uptime": "7.65%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "7.65%",
+    "uptimeYear": "7.65%",
+    "time": 1619,
+    "timeDay": 1564,
+    "timeWeek": 1631,
+    "timeMonth": 1619,
+    "timeYear": 1619
   }
 ]
