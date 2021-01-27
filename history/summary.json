@@ -22,19 +22,19 @@
     "url": "https://doh.kr",
     "icon": "https://favicons.githubusercontent.com/doh.kr",
     "slug": "d-oh",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 401,
-    "timeWeek": 366,
-    "timeMonth": 314,
-    "timeYear": 356,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 355,
+    "timeDay": 350,
+    "timeWeek": 358,
+    "timeMonth": 313,
+    "timeYear": 355,
     "dailyMinutesDown": {
-      "2021-01-27": 0
+      "2021-01-27": 21
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 963,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2021-01-27": 1230,
+      "2021-01-27": 1251,
       "2021-01-26": 1440,
       "2021-01-25": 1440,
       "2021-01-24": 1440,
@@ -215,7 +215,7 @@
     "timeMonth": 1638,
     "timeYear": 1650,
     "dailyMinutesDown": {
-      "2021-01-27": 1230,
+      "2021-01-27": 1251,
       "2021-01-26": 1440,
       "2021-01-25": 1440,
       "2021-01-24": 1440,
