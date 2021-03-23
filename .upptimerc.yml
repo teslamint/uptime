@@ -19,7 +19,7 @@ sites:
   - name: tguum.kr
     url: https://tguum.kr
   - name: egloos
-    url: https://ice.tguum.kr
+    url: http://teslamint.egloos.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
