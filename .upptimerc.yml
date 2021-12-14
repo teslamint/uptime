@@ -20,6 +20,8 @@ sites:
     url: https://tguum.kr
   - name: egloos
     url: http://teslamint.egloos.com
+  - name: vault
+    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
