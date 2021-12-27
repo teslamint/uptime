@@ -13,7 +13,7 @@ sites:
   - name: tmint.dev
     url: https://tmint.dev
   - name: teslam.in
-    url: https://teslam.in
+    url: https://teslam.in/.well-known/nodeinfo
   - name: racl.kr
     url: https://racl.kr
   - name: tguum.kr
