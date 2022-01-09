@@ -140,19 +140,19 @@
     "url": "https://tmint.dev",
     "icon": "https://favicons.githubusercontent.com/tmint.dev",
     "slug": "tmint-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 203,
-    "timeWeek": 207,
-    "timeMonth": 273,
+    "time": 263,
+    "timeDay": 188,
+    "timeWeek": 202,
+    "timeMonth": 270,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2022-01-09": 0
+      "2022-01-09": 12
     }
   },
   {
