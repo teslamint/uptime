@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 175,
-    "timeWeek": 166,
-    "timeMonth": 149,
+    "timeDay": 267,
+    "timeWeek": 184,
+    "timeMonth": 155,
     "timeYear": 192,
     "dailyMinutesDown": {}
   },
@@ -23,19 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/doh.kr",
     "slug": "d-oh",
     "status": "up",
-    "uptime": "98.80%",
+    "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.65%",
     "time": 322,
-    "timeDay": 456,
-    "timeWeek": 313,
-    "timeMonth": 331,
+    "timeDay": 536,
+    "timeWeek": 361,
+    "timeMonth": 341,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2021-02-02": 423,
-      "2021-02-01": 1440
+      "2021-02-02": 423
     }
   },
   {
@@ -44,15 +43,15 @@
     "icon": "https://favicons.githubusercontent.com/guu.moe",
     "slug": "guu-moe",
     "status": "up",
-    "uptime": "72.73%",
+    "uptime": "72.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.94%",
+    "uptimeYear": "86.21%",
     "time": 337,
-    "timeDay": 295,
-    "timeWeek": 380,
-    "timeMonth": 314,
+    "timeDay": 473,
+    "timeWeek": 399,
+    "timeMonth": 324,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2021-03-23": 486,
@@ -104,8 +103,7 @@
       "2021-02-05": 1440,
       "2021-02-04": 1440,
       "2021-02-03": 1440,
-      "2021-02-02": 1440,
-      "2021-02-01": 1440
+      "2021-02-02": 1440
     }
   },
   {
@@ -120,9 +118,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 306,
-    "timeWeek": 236,
-    "timeMonth": 242,
+    "timeDay": 346,
+    "timeWeek": 269,
+    "timeMonth": 246,
     "timeYear": 283,
     "dailyMinutesDown": {}
   },
@@ -137,11 +135,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 105,
-    "timeWeek": 67,
+    "time": 296,
+    "timeDay": 98,
+    "timeWeek": 75,
     "timeMonth": 90,
-    "timeYear": 249,
+    "timeYear": 248,
     "dailyMinutesDown": {}
   },
   {
@@ -156,9 +154,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 427,
-    "timeWeek": 324,
-    "timeMonth": 346,
+    "timeDay": 443,
+    "timeWeek": 339,
+    "timeMonth": 355,
     "timeYear": 265,
     "dailyMinutesDown": {}
   },
@@ -174,9 +172,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 361,
-    "timeWeek": 299,
-    "timeMonth": 342,
+    "timeDay": 379,
+    "timeWeek": 326,
+    "timeMonth": 349,
     "timeYear": 262,
     "dailyMinutesDown": {}
   },
@@ -186,16 +184,16 @@
     "icon": "https://favicons.githubusercontent.com/teslamint.egloos.com",
     "slug": "egloos",
     "status": "up",
-    "uptime": "71.31%",
+    "uptime": "71.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.42%",
-    "time": 1080,
-    "timeDay": 743,
-    "timeWeek": 826,
-    "timeMonth": 830,
-    "timeYear": 943,
+    "uptimeYear": "85.70%",
+    "time": 1079,
+    "timeDay": 834,
+    "timeWeek": 822,
+    "timeMonth": 828,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2021-03-25": 292,
       "2021-03-24": 1440,
@@ -248,8 +246,7 @@
       "2021-02-05": 1440,
       "2021-02-04": 1440,
       "2021-02-03": 1440,
-      "2021-02-02": 1440,
-      "2021-02-01": 1440
+      "2021-02-02": 1440
     }
   },
   {
@@ -263,11 +260,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 273,
-    "timeWeek": 358,
-    "timeMonth": 382,
-    "timeYear": 395,
+    "time": 393,
+    "timeDay": 298,
+    "timeWeek": 373,
+    "timeMonth": 383,
+    "timeYear": 393,
     "dailyMinutesDown": {}
   }
 ]
