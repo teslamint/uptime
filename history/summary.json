@@ -116,19 +116,19 @@
     "url": "https://racl.kr",
     "icon": "https://favicons.githubusercontent.com/racl.kr",
     "slug": "racl-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 174,
-    "timeWeek": 222,
-    "timeMonth": 262,
+    "timeDay": 162,
+    "timeWeek": 213,
+    "timeMonth": 258,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2022-03-02": 0
+      "2022-03-02": 10
     }
   },
   {
