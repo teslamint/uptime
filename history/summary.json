@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 206,
-    "timeWeek": 174,
-    "timeMonth": 145,
+    "timeDay": 90,
+    "timeWeek": 145,
+    "timeMonth": 136,
     "timeYear": 186,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 180,
-    "timeWeek": 241,
-    "timeMonth": 234,
-    "timeYear": 313,
+    "timeDay": 194,
+    "timeWeek": 228,
+    "timeMonth": 220,
+    "timeYear": 314,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/guu.moe",
     "slug": "guu-moe",
     "status": "up",
-    "uptime": "74.46%",
+    "uptime": "74.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.37%",
-    "time": 329,
-    "timeDay": 44,
-    "timeWeek": 273,
-    "timeMonth": 229,
-    "timeYear": 290,
+    "uptimeYear": "94.70%",
+    "time": 330,
+    "timeDay": 692,
+    "timeWeek": 346,
+    "timeMonth": 234,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2021-03-23": 486,
       "2021-03-22": 1440,
@@ -70,9 +70,7 @@
       "2021-03-08": 1440,
       "2021-03-07": 1440,
       "2021-03-06": 1440,
-      "2021-03-05": 1440,
-      "2021-03-04": 1440,
-      "2021-03-03": 1440
+      "2021-03-05": 1440
     }
   },
   {
@@ -87,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 142,
-    "timeWeek": 200,
-    "timeMonth": 177,
+    "timeDay": 123,
+    "timeWeek": 125,
+    "timeMonth": 166,
     "timeYear": 275,
     "dailyMinutesDown": {}
   },
@@ -105,10 +103,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 57,
-    "timeWeek": 71,
-    "timeMonth": 70,
-    "timeYear": 223,
+    "timeDay": 71,
+    "timeWeek": 67,
+    "timeMonth": 66,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -118,18 +116,16 @@
     "slug": "racl-kr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 162,
-    "timeWeek": 213,
-    "timeMonth": 258,
-    "timeYear": 267,
-    "dailyMinutesDown": {
-      "2022-03-02": 10
-    }
+    "time": 292,
+    "timeDay": 67,
+    "timeWeek": 184,
+    "timeMonth": 241,
+    "timeYear": 265,
+    "dailyMinutesDown": {}
   },
   {
     "name": "tguum.kr",
@@ -143,10 +139,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 286,
-    "timeDay": 1429,
-    "timeWeek": 401,
-    "timeMonth": 276,
-    "timeYear": 266,
+    "timeDay": 200,
+    "timeWeek": 374,
+    "timeMonth": 255,
+    "timeYear": 265,
     "dailyMinutesDown": {}
   },
   {
@@ -155,16 +151,16 @@
     "icon": "https://favicons.githubusercontent.com/teslamint.egloos.com",
     "slug": "egloos",
     "status": "up",
-    "uptime": "73.19%",
+    "uptime": "73.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.86%",
-    "time": 1064,
-    "timeDay": 848,
-    "timeWeek": 884,
-    "timeMonth": 855,
-    "timeYear": 927,
+    "uptimeYear": "94.19%",
+    "time": 1063,
+    "timeDay": 806,
+    "timeWeek": 897,
+    "timeMonth": 863,
+    "timeYear": 926,
     "dailyMinutesDown": {
       "2021-03-25": 292,
       "2021-03-24": 1440,
@@ -186,9 +182,7 @@
       "2021-03-08": 1440,
       "2021-03-07": 1440,
       "2021-03-06": 1440,
-      "2021-03-05": 1440,
-      "2021-03-04": 1440,
-      "2021-03-03": 1440
+      "2021-03-05": 1440
     }
   },
   {
@@ -203,9 +197,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 416,
-    "timeDay": 216,
-    "timeWeek": 414,
-    "timeMonth": 460,
+    "timeDay": 492,
+    "timeWeek": 365,
+    "timeMonth": 361,
     "timeYear": 416,
     "dailyMinutesDown": {}
   }
