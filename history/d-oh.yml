@@ -1,7 +1,7 @@
 url: https://doh.kr
-status: up
-code: 200
-responseTime: 244
-lastUpdated: 2022-03-26T23:01:35.554Z
+status: down
+code: 502
+responseTime: 140
+lastUpdated: 2022-03-27T00:47:08.058Z
 startTime: Mon Nov 02 2020 01:45:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
