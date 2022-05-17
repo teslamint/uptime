@@ -46,7 +46,7 @@
     "icon": "https://favicons.githubusercontent.com/guu.moe",
     "slug": "guu-moe",
     "status": "up",
-    "uptime": "77.90%",
+    "uptime": "77.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -67,18 +67,16 @@
     "slug": "tmint-dev",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
     "timeDay": 128,
     "timeWeek": 137,
     "timeMonth": 321,
     "timeYear": 298,
-    "dailyMinutesDown": {
-      "2022-05-17": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "teslam.in",
@@ -123,9 +121,9 @@
     "url": "https://tguum.kr",
     "icon": "https://favicons.githubusercontent.com/tguum.kr",
     "slug": "tguum-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -135,6 +133,7 @@
     "timeMonth": 291,
     "timeYear": 272,
     "dailyMinutesDown": {
+      "2022-05-17": 0,
       "2022-04-14": 69,
       "2022-04-10": 16
     }
