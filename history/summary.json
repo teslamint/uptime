@@ -14,7 +14,7 @@
     "timeDay": 225,
     "timeWeek": 221,
     "timeMonth": 148,
-    "timeYear": 181,
+    "timeYear": 180,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 355,
+    "time": 359,
     "timeDay": 295,
     "timeWeek": 268,
     "timeMonth": 274,
-    "timeYear": 372,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2022-05-02": 24,
       "2022-04-14": 56,
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 307,
+    "time": 287,
     "timeDay": 342,
     "timeWeek": 289,
     "timeMonth": 433,
-    "timeYear": 299,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2022-04-14": 36
     }
@@ -121,19 +121,19 @@
     "url": "https://tguum.kr",
     "icon": "https://favicons.githubusercontent.com/tguum.kr",
     "slug": "tguum-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 267,
-    "timeDay": 300,
-    "timeWeek": 414,
-    "timeMonth": 372,
+    "timeDay": 430,
+    "timeWeek": 433,
+    "timeMonth": 378,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2022-05-30": 0,
+      "2022-05-30": 12,
       "2022-04-14": 69,
       "2022-04-10": 16
     }
