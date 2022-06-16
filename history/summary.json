@@ -83,19 +83,19 @@
     "url": "https://teslam.in/.well-known/nodeinfo",
     "icon": "https://favicons.githubusercontent.com/teslam.in",
     "slug": "teslam-in",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 152,
-    "timeWeek": 379,
-    "timeMonth": 316,
+    "timeDay": 166,
+    "timeWeek": 358,
+    "timeMonth": 312,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2022-06-16": 0
+      "2022-06-16": 10
     }
   },
   {
@@ -145,7 +145,7 @@
     "icon": "https://favicons.githubusercontent.com/teslamint.egloos.com",
     "slug": "egloos",
     "status": "up",
-    "uptime": "78.04%",
+    "uptime": "78.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -165,19 +165,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vault",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 274,
-    "timeWeek": 377,
-    "timeMonth": 430,
-    "timeYear": 395,
+    "time": 396,
+    "timeDay": 381,
+    "timeWeek": 401,
+    "timeMonth": 435,
+    "timeYear": 396,
     "dailyMinutesDown": {
-      "2022-06-16": 0
+      "2022-06-16": 10
     }
   }
 ]
