@@ -165,19 +165,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vault",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
-    "time": 393,
-    "timeDay": 425,
-    "timeWeek": 311,
-    "timeMonth": 428,
-    "timeYear": 393,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
+    "time": 392,
+    "timeDay": 340,
+    "timeWeek": 305,
+    "timeMonth": 423,
+    "timeYear": 392,
     "dailyMinutesDown": {
-      "2022-06-21": 30
+      "2022-06-21": 41
     }
   }
 ]
