@@ -46,7 +46,7 @@
     "icon": "https://favicons.githubusercontent.com/guu.moe",
     "slug": "guu-moe",
     "status": "up",
-    "uptime": "79.18%",
+    "uptime": "79.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -83,19 +83,19 @@
     "url": "https://teslam.in/.well-known/nodeinfo",
     "icon": "https://favicons.githubusercontent.com/teslam.in",
     "slug": "teslam-in",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 216,
-    "timeDay": 283,
-    "timeWeek": 248,
-    "timeMonth": 325,
-    "timeYear": 156,
+    "timeDay": 402,
+    "timeWeek": 275,
+    "timeMonth": 330,
+    "timeYear": 157,
     "dailyMinutesDown": {
-      "2022-06-21": 1
+      "2022-06-21": 29
     }
   },
   {
@@ -166,18 +166,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vault",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 393,
     "timeDay": 425,
     "timeWeek": 311,
     "timeMonth": 428,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 30
     }
   }
 ]
