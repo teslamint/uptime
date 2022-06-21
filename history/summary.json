@@ -83,10 +83,10 @@
     "url": "https://teslam.in/.well-known/nodeinfo",
     "icon": "https://favicons.githubusercontent.com/teslam.in",
     "slug": "teslam-in",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
@@ -94,7 +94,9 @@
     "timeWeek": 248,
     "timeMonth": 325,
     "timeYear": 156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 1
+    }
   },
   {
     "name": "racl.kr",
@@ -143,7 +145,7 @@
     "icon": "https://favicons.githubusercontent.com/teslamint.egloos.com",
     "slug": "egloos",
     "status": "up",
-    "uptime": "78.20%",
+    "uptime": "78.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -163,9 +165,9 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vault",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -174,6 +176,8 @@
     "timeWeek": 311,
     "timeMonth": 428,
     "timeYear": 393,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
