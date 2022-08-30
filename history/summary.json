@@ -46,7 +46,7 @@
     "icon": "https://favicons.githubusercontent.com/guu.moe",
     "slug": "guu-moe",
     "status": "up",
-    "uptime": "81.36%",
+    "uptime": "81.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -65,9 +65,9 @@
     "url": "https://tmint.dev",
     "icon": "https://favicons.githubusercontent.com/tmint.dev",
     "slug": "tmint-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,7 +76,9 @@
     "timeWeek": 180,
     "timeMonth": 208,
     "timeYear": 270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-30": 0
+    }
   },
   {
     "name": "teslam.in",
@@ -87,12 +89,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 235,
     "timeDay": 249,
     "timeWeek": 369,
-    "timeMonth": 438,
+    "timeMonth": 441,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2022-07-30": 42,
@@ -147,7 +149,7 @@
     "icon": "https://favicons.githubusercontent.com/teslamint.egloos.com",
     "slug": "egloos",
     "status": "up",
-    "uptime": "80.55%",
+    "uptime": "80.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
