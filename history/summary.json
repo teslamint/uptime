@@ -24,17 +24,17 @@
     "slug": "d-oh",
     "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 357,
     "timeDay": 182,
     "timeWeek": 240,
     "timeMonth": 296,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2022-08-31": 0,
+      "2022-08-31": 11,
       "2022-05-02": 24,
       "2022-04-14": 56,
       "2022-04-10": 16,
@@ -46,9 +46,9 @@
     "url": "https://guu.moe",
     "icon": "https://favicons.githubusercontent.com/guu.moe",
     "slug": "guu-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "81.41%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -58,6 +58,7 @@
     "timeMonth": 309,
     "timeYear": 388,
     "dailyMinutesDown": {
+      "2022-08-31": 0,
       "2022-04-14": 70
     }
   },
@@ -66,19 +67,19 @@
     "url": "https://tmint.dev",
     "icon": "https://favicons.githubusercontent.com/tmint.dev",
     "slug": "tmint-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 151,
-    "timeWeek": 178,
-    "timeMonth": 178,
-    "timeYear": 269,
+    "time": 303,
+    "timeDay": 1990,
+    "timeWeek": 788,
+    "timeMonth": 334,
+    "timeYear": 283,
     "dailyMinutesDown": {
-      "2022-08-31": 0
+      "2022-08-31": 10
     }
   },
   {
@@ -128,9 +129,9 @@
     "url": "https://tguum.kr",
     "icon": "https://favicons.githubusercontent.com/tguum.kr",
     "slug": "tguum-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -140,6 +141,7 @@
     "timeMonth": 386,
     "timeYear": 303,
     "dailyMinutesDown": {
+      "2022-08-31": 0,
       "2022-04-14": 69,
       "2022-04-10": 16
     }
