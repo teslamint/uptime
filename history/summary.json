@@ -174,19 +174,19 @@
     "url": "http://teslamint.egloos.com",
     "icon": "https://icons.duckduckgo.com/ip3/teslamint.egloos.com.ico",
     "slug": "egloos",
-    "status": "down",
+    "status": "up",
     "uptime": "86.33%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 807,
-    "timeDay": 694,
-    "timeWeek": 727,
-    "timeMonth": 781,
+    "timeDay": 749,
+    "timeWeek": 737,
+    "timeMonth": 782,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2023-06-01": 0
+      "2023-06-01": 8
     }
   },
   {
