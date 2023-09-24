@@ -1,7 +1,7 @@
 url: https://teslam.in/.well-known/nodeinfo
-status: down
-code: 502
-responseTime: 368
-lastUpdated: 2023-09-24T14:28:10.559Z
+status: up
+code: 200
+responseTime: 176
+lastUpdated: 2023-09-24T14:44:20.413Z
 startTime: 2020-11-02T01:46:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
