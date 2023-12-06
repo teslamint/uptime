@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 176,
-    "timeDay": 89,
-    "timeWeek": 108,
-    "timeMonth": 111,
-    "timeYear": 170,
+    "time": 175,
+    "timeDay": 73,
+    "timeWeek": 115,
+    "timeMonth": 104,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -28,14 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 399,
-    "timeDay": 484,
-    "timeWeek": 318,
-    "timeMonth": 310,
-    "timeYear": 388,
-    "dailyMinutesDown": {
-      "2022-12-06": 16
-    }
+    "time": 395,
+    "timeDay": 229,
+    "timeWeek": 316,
+    "timeMonth": 308,
+    "timeYear": 389,
+    "dailyMinutesDown": {}
   },
   {
     "name": "guu.moe",
@@ -43,21 +41,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/guu.moe.ico",
     "slug": "guu-moe",
     "status": "up",
-    "uptime": "88.97%",
+    "uptime": "89.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 409,
-    "timeDay": 460,
-    "timeWeek": 325,
-    "timeMonth": 275,
-    "timeYear": 402,
+    "timeDay": 53,
+    "timeWeek": 380,
+    "timeMonth": 290,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2023-07-26": 19,
       "2022-12-13": 16,
-      "2022-12-08": 22,
-      "2022-12-06": 16
+      "2022-12-08": 22
     }
   },
   {
@@ -71,10 +68,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 288,
-    "timeDay": 126,
-    "timeWeek": 157,
-    "timeMonth": 153,
+    "time": 287,
+    "timeDay": 88,
+    "timeWeek": 156,
+    "timeMonth": 148,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2023-03-15": 16,
@@ -91,12 +88,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.98%",
+    "uptimeYear": "99.00%",
     "time": 490,
-    "timeDay": 198,
-    "timeWeek": 242,
-    "timeMonth": 294,
-    "timeYear": 506,
+    "timeDay": 177,
+    "timeWeek": 203,
+    "timeMonth": 286,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2023-11-16": 16,
       "2023-09-24": 16,
@@ -119,9 +116,7 @@
       "2023-01-23": 46,
       "2023-01-01": 398,
       "2022-12-31": 383,
-      "2022-12-09": 34,
-      "2022-12-06": 354,
-      "2022-12-04": 102
+      "2022-12-09": 34
     }
   },
   {
@@ -136,8 +131,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
-    "timeDay": 152,
-    "timeWeek": 315,
+    "timeDay": 134,
+    "timeWeek": 297,
     "timeMonth": 264,
     "timeYear": 372,
     "dailyMinutesDown": {}
@@ -154,9 +149,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 350,
-    "timeDay": 156,
-    "timeWeek": 230,
-    "timeMonth": 266,
+    "timeDay": 527,
+    "timeWeek": 284,
+    "timeMonth": 277,
     "timeYear": 377,
     "dailyMinutesDown": {}
   },
@@ -166,16 +161,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/teslamint.egloos.com.ico",
     "slug": "egloos",
     "status": "up",
-    "uptime": "88.61%",
+    "uptime": "88.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1734,
-    "timeDay": 5311,
-    "timeWeek": 3461,
-    "timeMonth": 3387,
-    "timeYear": 2076,
+    "time": 1767,
+    "timeDay": 5996,
+    "timeWeek": 5020,
+    "timeMonth": 3774,
+    "timeYear": 2119,
     "dailyMinutesDown": {}
   },
   {
@@ -188,12 +183,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.56%",
-    "time": 650,
-    "timeDay": 596,
-    "timeWeek": 528,
-    "timeMonth": 568,
-    "timeYear": 646,
+    "uptimeYear": "99.57%",
+    "time": 649,
+    "timeDay": 654,
+    "timeWeek": 515,
+    "timeMonth": 562,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2023-11-16": 16,
       "2023-07-26": 18,
@@ -208,9 +203,7 @@
       "2023-01-01": 20,
       "2022-12-31": 221,
       "2022-12-09": 25,
-      "2022-12-08": 27,
-      "2022-12-06": 45,
-      "2022-12-04": 79
+      "2022-12-08": 27
     }
   }
 ]
