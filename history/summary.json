@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 99,
-    "timeWeek": 93,
-    "timeMonth": 104,
+    "timeDay": 160,
+    "timeWeek": 106,
+    "timeMonth": 105,
     "timeYear": 169,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 263,
-    "timeWeek": 266,
-    "timeMonth": 303,
-    "timeYear": 371,
+    "time": 395,
+    "timeDay": 206,
+    "timeWeek": 260,
+    "timeMonth": 302,
+    "timeYear": 356,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/guu.moe.ico",
     "slug": "guu-moe",
     "status": "up",
-    "uptime": "89.02%",
+    "uptime": "89.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 408,
-    "timeDay": 62,
-    "timeWeek": 305,
-    "timeMonth": 271,
-    "timeYear": 381,
+    "timeDay": 429,
+    "timeWeek": 323,
+    "timeMonth": 282,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2023-07-26": 19,
       "2022-12-13": 16
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 276,
-    "timeDay": 378,
-    "timeWeek": 172,
-    "timeMonth": 162,
-    "timeYear": 272,
+    "time": 277,
+    "timeDay": 515,
+    "timeWeek": 233,
+    "timeMonth": 174,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2023-03-15": 16,
       "2022-12-15": 17
@@ -89,10 +89,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.07%",
     "time": 491,
-    "timeDay": 341,
-    "timeWeek": 251,
-    "timeMonth": 296,
-    "timeYear": 515,
+    "timeDay": 434,
+    "timeWeek": 284,
+    "timeMonth": 303,
+    "timeYear": 513,
     "dailyMinutesDown": {
       "2023-11-16": 16,
       "2023-09-24": 16,
@@ -114,8 +114,7 @@
       "2023-01-24": 142,
       "2023-01-23": 46,
       "2023-01-01": 398,
-      "2022-12-31": 383,
-      "2022-12-09": 34
+      "2022-12-31": 383
     }
   },
   {
@@ -130,10 +129,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
-    "timeDay": 245,
-    "timeWeek": 250,
+    "timeDay": 218,
+    "timeWeek": 248,
     "timeMonth": 265,
-    "timeYear": 358,
+    "timeYear": 343,
     "dailyMinutesDown": {}
   },
   {
@@ -148,10 +147,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 359,
-    "timeDay": 151,
-    "timeWeek": 806,
-    "timeMonth": 420,
-    "timeYear": 368,
+    "timeDay": 221,
+    "timeWeek": 804,
+    "timeMonth": 421,
+    "timeYear": 361,
     "dailyMinutesDown": {}
   },
   {
@@ -160,16 +159,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/teslamint.egloos.com.ico",
     "slug": "egloos",
     "status": "up",
-    "uptime": "88.66%",
+    "uptime": "88.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1773,
-    "timeDay": 2062,
-    "timeWeek": 4524,
-    "timeMonth": 3623,
-    "timeYear": 2127,
+    "time": 1774,
+    "timeDay": 1734,
+    "timeWeek": 4292,
+    "timeMonth": 3616,
+    "timeYear": 2130,
     "dailyMinutesDown": {}
   },
   {
@@ -184,10 +183,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.58%",
     "time": 647,
-    "timeDay": 520,
-    "timeWeek": 513,
-    "timeMonth": 561,
-    "timeYear": 649,
+    "timeDay": 548,
+    "timeWeek": 529,
+    "timeMonth": 556,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2023-11-16": 16,
       "2023-07-26": 18,
@@ -200,8 +199,7 @@
       "2023-01-23": 19,
       "2023-01-11": 34,
       "2023-01-01": 20,
-      "2022-12-31": 221,
-      "2022-12-09": 25
+      "2022-12-31": 221
     }
   }
 ]
