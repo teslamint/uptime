@@ -22,19 +22,19 @@
     "url": "https://doh.kr",
     "icon": "https://icons.duckduckgo.com/ip3/doh.kr.ico",
     "slug": "d-oh",
-    "status": "down",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 387,
-    "timeDay": 186,
-    "timeWeek": 264,
+    "timeDay": 208,
+    "timeWeek": 263,
     "timeMonth": 246,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 11
     }
   },
   {
@@ -122,18 +122,16 @@
     "slug": "racl-kr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
     "timeDay": 1240,
     "timeWeek": 570,
     "timeMonth": 348,
     "timeYear": 333,
-    "dailyMinutesDown": {
-      "2024-01-03": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "tguum.kr",
