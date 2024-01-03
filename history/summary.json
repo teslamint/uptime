@@ -42,17 +42,16 @@
     "slug": "guu-moe",
     "status": "up",
     "uptime": "89.27%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 404,
     "timeDay": 1362,
     "timeWeek": 664,
     "timeMonth": 370,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2024-01-03": 8,
       "2023-07-26": 19
     }
   },
@@ -119,18 +118,20 @@
     "url": "https://racl.kr",
     "icon": "https://icons.duckduckgo.com/ip3/racl.kr.ico",
     "slug": "racl-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 239,
-    "timeWeek": 236,
-    "timeMonth": 258,
-    "timeYear": 325,
-    "dailyMinutesDown": {}
+    "time": 372,
+    "timeDay": 1741,
+    "timeWeek": 612,
+    "timeMonth": 351,
+    "timeYear": 333,
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "tguum.kr",
