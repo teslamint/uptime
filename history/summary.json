@@ -22,18 +22,20 @@
     "url": "https://doh.kr",
     "icon": "https://icons.duckduckgo.com/ip3/doh.kr.ico",
     "slug": "d-oh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 233,
-    "timeWeek": 282,
-    "timeMonth": 249,
+    "time": 387,
+    "timeDay": 186,
+    "timeWeek": 264,
+    "timeMonth": 246,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "guu.moe",
@@ -118,19 +120,19 @@
     "url": "https://racl.kr",
     "icon": "https://icons.duckduckgo.com/ip3/racl.kr.ico",
     "slug": "racl-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 372,
-    "timeDay": 1741,
-    "timeWeek": 612,
-    "timeMonth": 351,
+    "timeDay": 1240,
+    "timeWeek": 570,
+    "timeMonth": 348,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 10
     }
   },
   {
