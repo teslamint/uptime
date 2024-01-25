@@ -18,8 +18,6 @@ sites:
     url: https://racl.kr
   - name: tguum.kr
     url: https://tguum.kr
-  - name: egloos
-    url: http://teslamint.egloos.com
   - name: vault
     url: $SECRET_SITE
 
