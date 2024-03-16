@@ -130,19 +130,19 @@
     "url": "https://tguum.kr",
     "icon": "https://icons.duckduckgo.com/ip3/tguum.kr.ico",
     "slug": "tguum-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
+    "time": 367,
     "timeDay": 271,
     "timeWeek": 257,
     "timeMonth": 263,
     "timeYear": 325,
     "dailyMinutesDown": {
-      "2024-03-16": 11
+      "2024-03-16": 0
     }
   },
   {
