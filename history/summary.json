@@ -4,9 +4,9 @@
     "url": "https://blog.tmint.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.tmint.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 141,
     "timeMonth": 137,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-03": 0
+    }
   },
   {
     "name": "d'oh!",
@@ -41,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/guu.moe.ico",
     "slug": "guu-moe",
     "status": "up",
-    "uptime": "90.51%",
+    "uptime": "90.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
