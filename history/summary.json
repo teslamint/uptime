@@ -4,18 +4,20 @@
     "url": "https://blog.tmint.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.tmint.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
+    "time": 165,
     "timeDay": 75,
     "timeWeek": 138,
     "timeMonth": 172,
     "timeYear": 148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "d'oh!",
