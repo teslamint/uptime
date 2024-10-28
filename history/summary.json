@@ -123,9 +123,9 @@
     "url": "https://tguum.kr",
     "icon": "https://icons.duckduckgo.com/ip3/tguum.kr.ico",
     "slug": "tguum-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -134,7 +134,9 @@
     "timeWeek": 400,
     "timeMonth": 377,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-28": 0
+    }
   },
   {
     "name": "vault",
