@@ -119,18 +119,16 @@
     "slug": "guu-moe",
     "status": "up",
     "uptime": "92.46%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
     "timeDay": 156,
     "timeWeek": 199,
     "timeMonth": 300,
     "timeYear": 304,
-    "dailyMinutesDown": {
-      "2025-05-07": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "tmint.dev",
@@ -139,9 +137,9 @@
     "slug": "tmint-dev",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 180,
     "timeDay": 179,
@@ -149,7 +147,6 @@
     "timeMonth": 239,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-05-07": 8,
       "2024-09-13": 35
     }
   },
@@ -179,11 +176,11 @@
     "url": "https://racl.kr",
     "icon": "https://icons.duckduckgo.com/ip3/racl.kr.ico",
     "slug": "racl-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 310,
     "timeDay": 301,
@@ -191,7 +188,7 @@
     "timeMonth": 319,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2025-05-07": 8
+      "2025-05-07": 1
     }
   },
   {
@@ -201,18 +198,16 @@
     "slug": "tguum-kr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 324,
     "timeDay": 917,
     "timeWeek": 508,
     "timeMonth": 386,
     "timeYear": 335,
-    "dailyMinutesDown": {
-      "2025-05-07": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "vault",
