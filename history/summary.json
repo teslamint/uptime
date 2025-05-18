@@ -117,19 +117,19 @@
     "url": "https://guu.moe",
     "icon": "https://icons.duckduckgo.com/ip3/guu.moe.ico",
     "slug": "guu-moe",
-    "status": "down",
+    "status": "up",
     "uptime": "92.51%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 1841,
-    "timeWeek": 693,
-    "timeMonth": 381,
-    "timeYear": 315,
+    "time": 305,
+    "timeDay": 1386,
+    "timeWeek": 669,
+    "timeMonth": 384,
+    "timeYear": 316,
     "dailyMinutesDown": {
-      "2025-05-18": 0
+      "2025-05-18": 12
     }
   },
   {
