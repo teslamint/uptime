@@ -117,18 +117,20 @@
     "url": "https://guu.moe",
     "icon": "https://icons.duckduckgo.com/ip3/guu.moe.ico",
     "slug": "guu-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "92.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 311,
-    "timeWeek": 311,
-    "timeMonth": 285,
-    "timeYear": 307,
-    "dailyMinutesDown": {}
+    "time": 304,
+    "timeDay": 1841,
+    "timeWeek": 693,
+    "timeMonth": 381,
+    "timeYear": 315,
+    "dailyMinutesDown": {
+      "2025-05-18": 0
+    }
   },
   {
     "name": "tmint.dev",
@@ -213,7 +215,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vault",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
