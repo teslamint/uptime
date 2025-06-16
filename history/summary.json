@@ -155,9 +155,9 @@
     "url": "https://teslam.in/.well-known/nodeinfo",
     "icon": "https://icons.duckduckgo.com/ip3/teslam.in.ico",
     "slug": "teslam-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -167,6 +167,7 @@
     "timeMonth": 481,
     "timeYear": 567,
     "dailyMinutesDown": {
+      "2025-06-16": 0,
       "2024-11-05": 20
     }
   },
