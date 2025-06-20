@@ -117,9 +117,9 @@
     "url": "https://guu.moe",
     "icon": "https://icons.duckduckgo.com/ip3/guu.moe.ico",
     "slug": "guu-moe",
-    "status": "up",
-    "uptime": "92.65%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "92.66%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -128,7 +128,9 @@
     "timeWeek": 254,
     "timeMonth": 291,
     "timeYear": 317,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-20": 0
+    }
   },
   {
     "name": "tmint.dev",
