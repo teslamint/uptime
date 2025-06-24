@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/doh.kr.ico",
     "slug": "d-oh",
     "status": "up",
-    "uptime": "95.35%",
+    "uptime": "95.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -118,7 +118,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/guu.moe.ico",
     "slug": "guu-moe",
     "status": "up",
-    "uptime": "92.67%",
+    "uptime": "92.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -194,9 +194,9 @@
     "url": "https://tguum.kr",
     "icon": "https://icons.duckduckgo.com/ip3/tguum.kr.ico",
     "slug": "tguum-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -205,7 +205,9 @@
     "timeWeek": 375,
     "timeMonth": 360,
     "timeYear": 347,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-24": 0
+    }
   },
   {
     "name": "vault",
