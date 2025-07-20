@@ -4,9 +4,9 @@
     "url": "https://blog.tmint.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.tmint.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 151,
     "timeYear": 163,
     "dailyMinutesDown": {
+      "2025-07-20": 0,
       "2025-04-03": 37
     }
   },
@@ -25,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/doh.kr.ico",
     "slug": "d-oh",
     "status": "up",
-    "uptime": "95.42%",
+    "uptime": "95.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -118,7 +119,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/guu.moe.ico",
     "slug": "guu-moe",
     "status": "up",
-    "uptime": "92.78%",
+    "uptime": "92.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
