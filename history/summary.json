@@ -4,11 +4,11 @@
     "url": "https://blog.tmint.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.tmint.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.13%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 157,
     "timeDay": 131,
@@ -16,7 +16,7 @@
     "timeMonth": 143,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2025-08-26": 41,
+      "2025-08-26": 28,
       "2025-04-03": 37
     }
   },
