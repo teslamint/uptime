@@ -8,12 +8,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 159,
     "timeDay": 150,
     "timeWeek": 218,
-    "timeMonth": 180,
+    "timeMonth": 183,
     "timeYear": 163,
     "dailyMinutesDown": {
       "2025-09-04": 15,
@@ -121,10 +121,10 @@
     "url": "https://guu.moe",
     "icon": "https://icons.duckduckgo.com/ip3/guu.moe.ico",
     "slug": "guu-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "93.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 321,
@@ -132,7 +132,9 @@
     "timeWeek": 358,
     "timeMonth": 353,
     "timeYear": 325,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-04": 1
+    }
   },
   {
     "name": "tmint.dev",
@@ -180,9 +182,9 @@
     "url": "https://racl.kr",
     "icon": "https://icons.duckduckgo.com/ip3/racl.kr.ico",
     "slug": "racl-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -191,7 +193,9 @@
     "timeWeek": 386,
     "timeMonth": 373,
     "timeYear": 340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-04": 0
+    }
   },
   {
     "name": "tguum.kr",
