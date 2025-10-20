@@ -122,18 +122,20 @@
     "url": "https://guu.moe",
     "icon": "https://icons.duckduckgo.com/ip3/guu.moe.ico",
     "slug": "guu-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "93.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 340,
+    "time": 341,
     "timeDay": 275,
     "timeWeek": 367,
     "timeMonth": 638,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 1
+    }
   },
   {
     "name": "tmint.dev",
@@ -142,17 +144,17 @@
     "slug": "tmint-dev",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 210,
     "timeDay": 109,
     "timeWeek": 224,
     "timeMonth": 227,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-10-20": 24
+      "2025-10-20": 32
     }
   },
   {
@@ -185,9 +187,9 @@
     "slug": "racl-kr",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 343,
     "timeDay": 197,
@@ -195,7 +197,7 @@
     "timeMonth": 561,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 9
     }
   },
   {
@@ -203,10 +205,10 @@
     "url": "https://tguum.kr",
     "icon": "https://icons.duckduckgo.com/ip3/tguum.kr.ico",
     "slug": "tguum-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 344,
