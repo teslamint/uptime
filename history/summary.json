@@ -140,9 +140,9 @@
     "url": "https://tmint.dev",
     "icon": "https://icons.duckduckgo.com/ip3/tmint.dev.ico",
     "slug": "tmint-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.40%",
+    "uptimeDay": "98.36%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
@@ -152,7 +152,7 @@
     "timeMonth": 227,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-10-20": 23
+      "2025-10-20": 24
     }
   },
   {
@@ -183,9 +183,9 @@
     "url": "https://racl.kr",
     "icon": "https://icons.duckduckgo.com/ip3/racl.kr.ico",
     "slug": "racl-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -194,7 +194,9 @@
     "timeWeek": 299,
     "timeMonth": 561,
     "timeYear": 358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 0
+    }
   },
   {
     "name": "tguum.kr",
