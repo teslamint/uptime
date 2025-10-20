@@ -122,19 +122,19 @@
     "url": "https://guu.moe",
     "icon": "https://icons.duckduckgo.com/ip3/guu.moe.ico",
     "slug": "guu-moe",
-    "status": "down",
+    "status": "up",
     "uptime": "93.15%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 380,
-    "timeWeek": 396,
-    "timeMonth": 654,
-    "timeYear": 353,
+    "time": 340,
+    "timeDay": 275,
+    "timeWeek": 367,
+    "timeMonth": 638,
+    "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-10-20": 1
+      "2025-10-20": 10
     }
   },
   {
@@ -143,10 +143,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/tmint.dev.ico",
     "slug": "tmint-dev",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 210,
     "timeDay": 96,
@@ -154,7 +154,7 @@
     "timeMonth": 231,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-10-20": 1
+      "2025-10-20": 11
     }
   },
   {
@@ -185,19 +185,19 @@
     "url": "https://racl.kr",
     "icon": "https://icons.duckduckgo.com/ip3/racl.kr.ico",
     "slug": "racl-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 343,
-    "timeDay": 258,
-    "timeWeek": 322,
-    "timeMonth": 576,
-    "timeYear": 359,
+    "timeDay": 197,
+    "timeWeek": 299,
+    "timeMonth": 561,
+    "timeYear": 358,
     "dailyMinutesDown": {
-      "2025-10-20": 1
+      "2025-10-20": 10
     }
   },
   {
@@ -207,9 +207,9 @@
     "slug": "tguum-kr",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 344,
     "timeDay": 265,
@@ -217,7 +217,7 @@
     "timeMonth": 355,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 10
     }
   },
   {
