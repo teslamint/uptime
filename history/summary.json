@@ -124,37 +124,35 @@
     "slug": "guu-moe",
     "status": "up",
     "uptime": "93.15%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
     "timeDay": 275,
     "timeWeek": 367,
     "timeMonth": 638,
     "timeYear": 352,
-    "dailyMinutesDown": {
-      "2025-10-20": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "tmint.dev",
     "url": "https://tmint.dev",
     "icon": "https://icons.duckduckgo.com/ip3/tmint.dev.ico",
     "slug": "tmint-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 96,
-    "timeWeek": 237,
-    "timeMonth": 231,
-    "timeYear": 218,
+    "timeDay": 109,
+    "timeWeek": 224,
+    "timeMonth": 227,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-10-20": 11
+      "2025-10-20": 23
     }
   },
   {
@@ -187,37 +185,35 @@
     "slug": "racl-kr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 343,
     "timeDay": 197,
     "timeWeek": 299,
     "timeMonth": 561,
     "timeYear": 358,
-    "dailyMinutesDown": {
-      "2025-10-20": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "tguum.kr",
     "url": "https://tguum.kr",
     "icon": "https://icons.duckduckgo.com/ip3/tguum.kr.ico",
     "slug": "tguum-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 265,
-    "timeWeek": 352,
-    "timeMonth": 355,
-    "timeYear": 349,
+    "timeDay": 188,
+    "timeWeek": 322,
+    "timeMonth": 347,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2025-10-20": 10
+      "2025-10-20": 23
     }
   },
   {
