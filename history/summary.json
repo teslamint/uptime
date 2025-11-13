@@ -142,9 +142,9 @@
     "url": "https://tmint.dev",
     "icon": "https://icons.duckduckgo.com/ip3/tmint.dev.ico",
     "slug": "tmint-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
@@ -154,6 +154,7 @@
     "timeMonth": 415,
     "timeYear": 234,
     "dailyMinutesDown": {
+      "2025-11-13": 0,
       "2025-10-20": 109
     }
   },
