@@ -32,9 +32,9 @@
     "url": "https://doh.kr",
     "icon": "https://icons.duckduckgo.com/ip3/doh.kr.ico",
     "slug": "d-oh",
-    "status": "up",
+    "status": "down",
     "uptime": "96.05%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -44,6 +44,7 @@
     "timeMonth": 435,
     "timeYear": 352,
     "dailyMinutesDown": {
+      "2026-04-23": 0,
       "2025-11-18": 144
     }
   },
