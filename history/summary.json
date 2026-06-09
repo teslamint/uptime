@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.tmint.dev.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "99.82%",
+    "uptime": "99.78%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "50.99%",
-    "uptimeMonth": "88.72%",
-    "uptimeYear": "99.01%",
+    "uptimeWeek": "38.46%",
+    "uptimeMonth": "85.84%",
+    "uptimeYear": "98.77%",
     "time": 169,
     "timeDay": 120,
     "timeWeek": 121,
@@ -25,7 +25,7 @@
       "2025-12-02": 16,
       "2025-12-19": 47,
       "2026-03-01": 15,
-      "2026-06-09": 31,
+      "2026-06-09": 1295,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -58,12 +58,12 @@
     "url": "https://guu.moe",
     "icon": "https://icons.duckduckgo.com/ip3/guu.moe.ico",
     "slug": "guu-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "93.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.96%",
     "time": 387,
     "timeDay": 322,
     "timeWeek": 395,
@@ -73,7 +73,8 @@
       "2025-10-20": 53,
       "2026-02-11": 21,
       "2026-04-02": 35,
-      "2026-05-19": 65
+      "2026-05-19": 65,
+      "2026-06-09": 15
     }
   },
   {
@@ -81,11 +82,11 @@
     "url": "https://tmint.dev",
     "icon": "https://icons.duckduckgo.com/ip3/tmint.dev.ico",
     "slug": "tmint-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
     "time": 283,
     "timeDay": 62,
@@ -101,7 +102,8 @@
       "2026-03-04": 25,
       "2026-04-09": 28,
       "2026-04-11": 42,
-      "2026-05-19": 64
+      "2026-05-19": 64,
+      "2026-06-09": 10
     }
   },
   {
@@ -137,11 +139,11 @@
     "url": "https://racl.kr",
     "icon": "https://icons.duckduckgo.com/ip3/racl.kr.ico",
     "slug": "racl-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.95%",
     "time": 401,
     "timeDay": 255,
@@ -151,7 +153,8 @@
     "dailyMinutesDown": {
       "2025-10-20": 71,
       "2026-05-10": 102,
-      "2026-05-19": 64
+      "2026-05-19": 64,
+      "2026-06-09": 5
     }
   },
   {
@@ -159,9 +162,9 @@
     "url": "https://tguum.kr",
     "icon": "https://icons.duckduckgo.com/ip3/tguum.kr.ico",
     "slug": "tguum-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.95%",
@@ -175,7 +178,8 @@
       "2026-02-11": 26,
       "2026-02-17": 18,
       "2026-05-10": 102,
-      "2026-05-19": 28
+      "2026-05-19": 28,
+      "2026-06-09": 0
     }
   },
   {
