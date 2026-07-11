@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.tmint.dev.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "98.28%",
+    "uptime": "98.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "90.22%",
+    "uptimeYear": "89.98%",
     "time": 164,
     "timeDay": 51,
     "timeWeek": 78,
-    "timeMonth": 71,
+    "timeMonth": 70,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2025-08-26": 93,
@@ -25,7 +25,7 @@
       "2025-12-02": 16,
       "2025-12-19": 47,
       "2026-03-01": 15,
-      "2026-07-11": 115,
+      "2026-07-11": 1411,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -78,7 +78,7 @@
     "time": 349,
     "timeDay": 253,
     "timeWeek": 280,
-    "timeMonth": 287,
+    "timeMonth": 288,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2025-11-18": 144,
@@ -99,7 +99,7 @@
     "time": 401,
     "timeDay": 261,
     "timeWeek": 418,
-    "timeMonth": 571,
+    "timeMonth": 585,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2025-10-20": 53,
@@ -127,8 +127,8 @@
     "time": 301,
     "timeDay": 425,
     "timeWeek": 489,
-    "timeMonth": 460,
-    "timeYear": 338,
+    "timeMonth": 472,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2025-10-20": 109,
       "2025-12-12": 21,
@@ -151,17 +151,17 @@
     "url": "https://teslam.in/.well-known/nodeinfo",
     "icon": "https://icons.duckduckgo.com/ip3/teslam.in.ico",
     "slug": "teslam-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 471,
-    "timeDay": 388,
-    "timeWeek": 383,
-    "timeMonth": 451,
-    "timeYear": 469,
+    "timeDay": 468,
+    "timeWeek": 404,
+    "timeMonth": 457,
+    "timeYear": 470,
     "dailyMinutesDown": {
       "2025-08-04": 15,
       "2025-08-08": 510,
@@ -171,7 +171,8 @@
       "2026-04-16": 28,
       "2026-04-23": 70,
       "2026-04-24": 33,
-      "2026-06-10": 90
+      "2026-06-10": 90,
+      "2026-07-11": 1
     }
   },
   {
@@ -188,7 +189,7 @@
     "time": 409,
     "timeDay": 594,
     "timeWeek": 445,
-    "timeMonth": 478,
+    "timeMonth": 471,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2025-10-20": 71,
@@ -214,7 +215,7 @@
     "time": 400,
     "timeDay": 299,
     "timeWeek": 529,
-    "timeMonth": 470,
+    "timeMonth": 474,
     "timeYear": 413,
     "dailyMinutesDown": {
       "2025-10-20": 100,
@@ -232,16 +233,16 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vault",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.62%",
-    "time": 623,
-    "timeDay": 542,
-    "timeWeek": 528,
-    "timeMonth": 553,
+    "time": 624,
+    "timeDay": 575,
+    "timeWeek": 538,
+    "timeMonth": 560,
     "timeYear": 624,
     "dailyMinutesDown": {
       "2025-08-08": 524,
@@ -257,7 +258,8 @@
       "2026-01-02": 15,
       "2026-03-18": 40,
       "2026-04-24": 33,
-      "2026-06-10": 90
+      "2026-06-10": 90,
+      "2026-07-11": 0
     }
   }
 ]
