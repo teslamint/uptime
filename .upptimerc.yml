@@ -5,7 +5,7 @@ repo: uptime # Your Github repository name
 # Add your sites here
 sites:
   - name: blog
-    url: https://blog-g408nanzs-teslamint.vercel.app
+    url: https://blog.tmint.dev
   - name: d'oh!
     url: https://doh.kr
   - name: guu.moe
